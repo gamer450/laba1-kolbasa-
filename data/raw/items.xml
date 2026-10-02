@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item>
+        <id>1</id>
+        <name>Товар А</name>
+        <category>Электроника</category>
+        <value>150.5</value>
+        <updated_at>2024-01-15</updated_at>
+        <active>true</active>
+    </item>
+    <item>
+        <id>8</id>
+        <name>Товар З</name>
+        <category>Бытовая техника</category>
+        <value>999.99</value>
+        <updated_at>2024-04-01</updated_at>
+        <active>true</active>
+    </item>
+    <item>
+        <id>9</id>
+        <name>Товар И</name>
+        <category>мебель</category>
+        <value>450</value>
+        <updated_at>2024-03-20</updated_at>
+        <active>False</active>
+    </item>
+</items>

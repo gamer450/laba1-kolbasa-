@@ -1,0 +1,10 @@
+requests
+pandas
+selenium
+beautifulsoup4
+lxml
+scrapy
+matplotlib
+fastapi
+uvicorn
+wikipedia-api

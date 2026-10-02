@@ -1,0 +1,74 @@
+[
+  {
+    "id":8,
+    "name":"Товар З",
+    "category":"Бытовая техника",
+    "value":999.99,
+    "updated_at":1711929600000,
+    "active":true
+  },
+  {
+    "id":9,
+    "name":"Товар И",
+    "category":"Мебель",
+    "value":450.0,
+    "updated_at":1710892800000,
+    "active":false
+  },
+  {
+    "id":7,
+    "name":"Товар Ж",
+    "category":"Электроника",
+    "value":300.0,
+    "updated_at":1710460800000,
+    "active":true
+  },
+  {
+    "id":3,
+    "name":"Товар В",
+    "category":"Электроника",
+    "value":null,
+    "updated_at":1710028800000,
+    "active":true
+  },
+  {
+    "id":6,
+    "name":"Товар Е",
+    "category":"Мебель",
+    "value":750.0,
+    "updated_at":1709251200000,
+    "active":true
+  },
+  {
+    "id":2,
+    "name":"Товар Б",
+    "category":"Бытовая техника",
+    "value":2300.0,
+    "updated_at":1708387200000,
+    "active":false
+  },
+  {
+    "id":1,
+    "name":"Товар А",
+    "category":"Электроника",
+    "value":150.5,
+    "updated_at":1705276800000,
+    "active":true
+  },
+  {
+    "id":4,
+    "name":"Товар Г",
+    "category":"Мебель",
+    "value":500.0,
+    "updated_at":1704412800000,
+    "active":true
+  },
+  {
+    "id":5,
+    "name":"Товар Д",
+    "category":"Бытовая техника",
+    "value":1200.5,
+    "updated_at":null,
+    "active":true
+  }
+]
